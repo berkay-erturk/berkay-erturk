@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 # 💫 About Me:
-🔭 I’m currently working on Web and Mobile Development (Angular - Ionic - React)<br>🌱 I’m currently learning Go, Blender<br>💬 Ask me about anything you want<br>⚡ Fun fact 
+🔭 I’m currently working on Web and Mobile Development (Angular - Ionic - React)<br>🌱 I’m currently learning Go, Blender<br>💬 Ask me about anything you want<br> 
 
 
 ## 🌐 Socials:
